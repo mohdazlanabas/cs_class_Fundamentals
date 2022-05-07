@@ -1,0 +1,15 @@
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\bin\Debug\net6.0\cs_class_fundamanetals.exe
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\bin\Debug\net6.0\cs_class_fundamanetals.deps.json
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\bin\Debug\net6.0\cs_class_fundamanetals.runtimeconfig.json
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\bin\Debug\net6.0\cs_class_fundamanetals.dll
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\bin\Debug\net6.0\cs_class_fundamanetals.pdb
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.csproj.AssemblyReference.cache
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.AssemblyInfoInputs.cache
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.AssemblyInfo.cs
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.csproj.CoreCompileInputs.cache
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.dll
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\refint\cs_class_fundamanetals.dll
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.pdb
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\cs_class_fundamanetals.genruntimeconfig.cache
+C:\Users\Azlan\Desktop\VSCode\cs_class_fundamanetals\obj\Debug\net6.0\ref\cs_class_fundamanetals.dll

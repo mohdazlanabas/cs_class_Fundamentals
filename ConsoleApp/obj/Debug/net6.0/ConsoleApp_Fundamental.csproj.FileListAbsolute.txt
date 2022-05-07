@@ -1,0 +1,15 @@
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\bin\Debug\net6.0\ConsoleApp_Fundamental.exe
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\bin\Debug\net6.0\ConsoleApp_Fundamental.deps.json
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\bin\Debug\net6.0\ConsoleApp_Fundamental.runtimeconfig.json
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\bin\Debug\net6.0\ConsoleApp_Fundamental.dll
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\bin\Debug\net6.0\ConsoleApp_Fundamental.pdb
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.csproj.AssemblyReference.cache
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.AssemblyInfoInputs.cache
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.AssemblyInfo.cs
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.csproj.CoreCompileInputs.cache
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.dll
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\refint\ConsoleApp_Fundamental.dll
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.pdb
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ConsoleApp_Fundamental.genruntimeconfig.cache
+C:\Users\Azlan\Desktop\VSCode\ConsoleApp_Fundamental\obj\Debug\net6.0\ref\ConsoleApp_Fundamental.dll
